@@ -5,11 +5,7 @@
 Inspired by https://github.com/jbranchaud/til.
 
 ### Categories
-* [Javascript](#javascript)
-* [Firewall][#firewall]
-
-### Javascript
-- [foo](bar.md)
+* [Firewall](#firewall)
 
 ### Firewall
-* [Sophos Firewall Default Settings](firewall/sophos-firewall.md)
+- [Sophos Firewall Default Settings](firewall/sophos-firewall.md)
