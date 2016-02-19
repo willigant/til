@@ -6,7 +6,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ## Categories
 * [Firewall](#firewall)
-* [HTTP](#hppt])
+* [HTTP](#http])
 * [Unix](#unix])
 
 ### Firewall
