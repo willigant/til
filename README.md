@@ -12,7 +12,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Firewall
 - [Sophos Firewall Default Settings](firewall/sophos-firewall.md)
 
-## HTTP
+### HTTP
 - [301 Redirects - No Turning Back](http/301-redirects-of-no-return.md)
  
 ### Unix
