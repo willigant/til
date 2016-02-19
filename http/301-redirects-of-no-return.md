@@ -16,5 +16,5 @@ Expires: Sun, 29 May 2016 12:54:49 +0200
 
 ```
 
-[cache header resource](https://www.mnot.net/cache_docs/#CONTROL)
-[source](http://jacquesmattheij.com/301-redirects-a-dangerous-one-way-street)
+* [cache header resource](https://www.mnot.net/cache_docs/#CONTROL)
+* [source](http://jacquesmattheij.com/301-redirects-a-dangerous-one-way-street)
