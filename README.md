@@ -5,9 +5,14 @@
 Inspired by https://github.com/jbranchaud/til.
 
 ## Categories
+* [Browsers](#browsers)
 * [Firewall](#firewall)
 * [HTTP](#http])
 * [Unix](#unix])
+
+### Browsers
+- Chrome
+  - [Copy Network Requests As Curl](browsers/chrome/Copy-netowrk-requests-as-cURL.md)
 
 ### Firewall
 - [Sophos Firewall Default Settings](firewall/sophos-firewall.md)
