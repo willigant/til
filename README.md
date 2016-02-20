@@ -12,7 +12,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Browsers
 - Chrome
-  - [Copy Network Requests As Curl](browsers/chrome/Copy-netowrk-requests-as-cURL.md)
+  - [Copy Network Requests As Curl](browsers/chrome/Copy-network-request-as-cURL.md)
 
 ### Firewall
 - [Sophos Firewall Default Settings](firewall/sophos-firewall.md)
