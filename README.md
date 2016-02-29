@@ -21,5 +21,6 @@ Inspired by https://github.com/jbranchaud/til.
 - [301 Redirects - No Turning Back](http/301-redirects-of-no-return.md)
  
 ### Unix
+- [See how long a command takes](unix/time-a-command.md)
 - [wget The Internet](unix/wget-to-archive-the-internet.md)
 - [Year 2038 Problem](unix/year-2038.md)
