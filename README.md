@@ -17,6 +17,9 @@ Inspired by https://github.com/jbranchaud/til.
 ### Firewall
 - [Sophos Firewall Default Settings](firewall/sophos-firewall.md)
 
+### JQ
+- [Pluck every value from an array](jq/pluck-value-from-an-array.md)
+
 ### HTTP
 - [301 Redirects - No Turning Back](http/301-redirects-of-no-return.md)
  
