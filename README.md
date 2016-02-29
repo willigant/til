@@ -8,7 +8,8 @@ Inspired by https://github.com/jbranchaud/til.
 * [Browsers](#browsers)
 * [Elasticsearch](#elasticsearch)
 * [Firewall](#firewall)
-* [HTTP](#http])
+* [HTTP](#http)
+* [JQ](#jq)
 * [Unix](#unix])
 
 ### Browsers
@@ -21,11 +22,11 @@ Inspired by https://github.com/jbranchaud/til.
 ### Firewall
 - [Sophos Firewall Default Settings](firewall/sophos-firewall.md)
 
-### JQ
-- [Pluck every value from an array](jq/pluck-value-from-an-array.md)
-
 ### HTTP
 - [301 Redirects - No Turning Back](http/301-redirects-of-no-return.md)
+
+### JQ
+- [Pluck every value from an array](jq/pluck-value-from-an-array.md)
  
 ### Unix
 - [See how long a command takes](unix/time-a-command.md)
