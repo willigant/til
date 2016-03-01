@@ -10,7 +10,7 @@ Inspired by https://github.com/jbranchaud/til.
 * [Firewall](#firewall)
 * [HTTP](#http)
 * [JQ](#jq)
-* [Unix](#unix])
+* [Unix](#unix)
 
 ### Browsers
 - Chrome
