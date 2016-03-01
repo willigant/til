@@ -30,5 +30,6 @@ Inspired by https://github.com/jbranchaud/til.
  
 ### Unix
 - [See how long a command takes](unix/time-a-command.md)
+- [Self documenting Makefile](unix/self-documenting-makefile.md)
 - [wget The Internet](unix/wget-to-archive-the-internet.md)
 - [Year 2038 Problem](unix/year-2038.md)
