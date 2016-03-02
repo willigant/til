@@ -8,6 +8,7 @@ Inspired by https://github.com/jbranchaud/til.
 * [Browsers](#browsers)
 * [Elasticsearch](#elasticsearch)
 * [Firewall](#firewall)
+* [Git](#git)
 * [HTTP](#http)
 * [JQ](#jq)
 * [Unix](#unix)
@@ -21,6 +22,9 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Firewall
 - [Sophos Firewall Default Settings](firewall/sophos-firewall.md)
+
+### Git
+- [Rename a git branch](git/rename-a-git-branch.md)
 
 ### HTTP
 - [301 Redirects - No Turning Back](http/301-redirects-of-no-return.md)
