@@ -5,6 +5,7 @@
 Inspired by https://github.com/jbranchaud/til.
 
 ## Categories
+* [Bash](#bash)
 * [Browsers](#browsers)
 * [Elasticsearch](#elasticsearch)
 * [Firewall](#firewall)
@@ -14,6 +15,8 @@ Inspired by https://github.com/jbranchaud/til.
 * [JQ](#jq)
 * [Unix](#unix)
 
+### Bash
+- [Self documenting bash file](bash/self-documenting-bash-file.md)
 ### Browsers
 - Chrome
   - [Copy Network Requests As Curl](browsers/chrome/Copy-network-request-as-cURL.md)
