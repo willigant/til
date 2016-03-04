@@ -17,6 +17,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Bash
 - [Self documenting bash file](bash/self-documenting-bash-file.md)
+
 ### Browsers
 - Chrome
   - [Copy Network Requests As Curl](browsers/chrome/Copy-network-request-as-cURL.md)
