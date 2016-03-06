@@ -9,6 +9,14 @@ travis encrypt 'KEY_NAME_WHICH_WILL_BE_THE_ENV_NAME=someapikeythatyouwanttoprote
 This will generate some encrypted hash and the `add` flag will automatically put
 this in your Travis CI yml file.
 
+You also need to expose that environment variable to your application from your
+Travis CI File. You can do that like so:
+```
+script:
+- export KEY_NAME_WHICH_WILL_BE_THE_ENV_NAME=$KEY_NAME_WHICH_WILL_BE_THE_ENV_NAME
+
+```
+
 For my use case I needed to use it in a python file, and was able to do so by
 ```
 KEY = os.environ['KEY_NAME_WHICH_WILL_BE_THE_ENV_NAME']
