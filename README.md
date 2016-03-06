@@ -12,6 +12,7 @@ Inspired by https://github.com/jbranchaud/til.
 * [HTTP](#http)
 * [Javascript](#javascript)
 * [JQ](#jq)
+* [Testing](#testing)
 * [Unix](#unix)
 
 ### Browsers
