@@ -38,7 +38,7 @@ Inspired by https://github.com/jbranchaud/til.
 - [Pluck every value from an array](jq/pluck-value-from-an-array.md)
 
 ### Testing
-- [Travis CI key encryption][testing/travis-ci-key-encryption.md]
+- [Travis CI key encryption](testing/travis-ci-key-encryption.md)
  
 ### Unix
 - [See how long a command takes](unix/time-a-command.md)
