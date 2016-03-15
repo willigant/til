@@ -5,6 +5,7 @@
 Inspired by https://github.com/jbranchaud/til.
 
 ## Categories
+* [Bash](#bash)
 * [Browsers](#browsers)
 * [Elasticsearch](#elasticsearch)
 * [Firewall](#firewall)
@@ -13,6 +14,10 @@ Inspired by https://github.com/jbranchaud/til.
 * [Javascript](#javascript)
 * [JQ](#jq)
 * [Unix](#unix)
+
+
+### Bash
+- [Run commands in parallel](bash/run-commands-in-parallel.md)
 
 ### Browsers
 - Chrome
