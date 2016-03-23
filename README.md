@@ -12,6 +12,7 @@ Inspired by https://github.com/jbranchaud/til.
 * [HTTP](#http)
 * [Javascript](#javascript)
 * [JQ](#jq)
+* [MySQL](#mysql)
 * [Unix](#unix)
 
 ### Browsers
@@ -35,6 +36,9 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### JQ
 - [Pluck every value from an array](jq/pluck-value-from-an-array.md)
+
+### Mysql
+- [Run basic operators on Select Count queries](mysql/operators-on-mysql-selects.md)
  
 ### Unix
 - [See how long a command takes](unix/time-a-command.md)
