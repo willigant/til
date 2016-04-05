@@ -17,9 +17,9 @@ Inspired by https://github.com/jbranchaud/til.
 * [Testing](#testing)
 * [Unix](#unix)
 
-
 ### Bash
 - [Run commands in parallel](bash/run-commands-in-parallel.md)
+- [Self documenting bash file](bash/self-documenting-bash-file.md)
 
 ### Browsers
 - Chrome
