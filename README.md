@@ -14,6 +14,7 @@ Inspired by https://github.com/jbranchaud/til.
 * [Javascript](#javascript)
 * [JQ](#jq)
 * [MySQL](#mysql)
+* [Testing](#testing)
 * [Unix](#unix)
 
 
@@ -44,7 +45,10 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Mysql
 - [Run basic operators on Select Count queries](mysql/operators-on-mysql-selects.md)
- 
+
+### Testing
+- [Travis CI key encryption](testing/travis-ci-key-encryption.md)
+
 ### Unix
 - [See how long a command takes](unix/time-a-command.md)
 - [Self documenting Makefile](unix/self-documenting-makefile.md)
