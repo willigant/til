@@ -5,6 +5,7 @@
 Inspired by https://github.com/jbranchaud/til.
 
 ## Categories
+* [Bash](#bash)
 * [Browsers](#browsers)
 * [Elasticsearch](#elasticsearch)
 * [Firewall](#firewall)
@@ -12,8 +13,13 @@ Inspired by https://github.com/jbranchaud/til.
 * [HTTP](#http)
 * [Javascript](#javascript)
 * [JQ](#jq)
+* [MySQL](#mysql)
 * [Testing](#testing)
 * [Unix](#unix)
+
+
+### Bash
+- [Run commands in parallel](bash/run-commands-in-parallel.md)
 
 ### Browsers
 - Chrome
@@ -37,9 +43,12 @@ Inspired by https://github.com/jbranchaud/til.
 ### JQ
 - [Pluck every value from an array](jq/pluck-value-from-an-array.md)
 
+### Mysql
+- [Run basic operators on Select Count queries](mysql/operators-on-mysql-selects.md)
+
 ### Testing
 - [Travis CI key encryption](testing/travis-ci-key-encryption.md)
- 
+
 ### Unix
 - [See how long a command takes](unix/time-a-command.md)
 - [Self documenting Makefile](unix/self-documenting-makefile.md)
