@@ -39,6 +39,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Javascript
 - [Template Literals](javascript/template-literals.md)
+- [Clone An Array](javscript/clone-an-array.md)
 
 ### JQ
 - [Pluck every value from an array](jq/pluck-value-from-an-array.md)
