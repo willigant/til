@@ -38,6 +38,7 @@ Inspired by https://github.com/jbranchaud/til.
 - [301 Redirects - No Turning Back](http/301-redirects-of-no-return.md)
 
 ### Javascript
+- [Convert a string to a number](javascript/convert-a-string-to-a-number.md)
 - [Template Literals](javascript/template-literals.md)
 - [Clone An Array](javascript/clone-an-array.md)
 
