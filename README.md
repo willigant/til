@@ -33,6 +33,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Git
 - [Rename a git branch](git/rename-a-git-branch.md)
+- [Force cherry pick](git/force-cherry-pick.md)
 
 ### HTTP
 - [301 Redirects - No Turning Back](http/301-redirects-of-no-return.md)
