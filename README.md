@@ -20,6 +20,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Bash
 - [Run commands in parallel](bash/run-commands-in-parallel.md)
 - [Self documenting bash file](bash/self-documenting-bash-file.md)
+- [Bash Date Yesterday](bash/bash-date-yesterday.md)
 
 ### Browsers
 - Chrome
