@@ -38,7 +38,7 @@ another() {
     echo "another one! $1"
 }
 
-# this calls the function passed as the first paramter to the script
+# this calls the function passed as the first parameter to the script
 # the $2 makes the next arg available passed to the method
 $1 $2
 ```
